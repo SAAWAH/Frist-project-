@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-int main ()
-    {
-
-    }
-
-=======
 int mul (void)
 {
-    int x=1523;
+    int x=15;
     return 0;
 }
->>>>>>> master
